@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "31D30402-3D37-40B9-987D-01D4539D22D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 328,
+    "width": 442,
+    "x": 166,
+    "y": 154
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C40B9B8E-91C5-4FA8-A331-774BDB57E6B4"
+    },
+    {
+      "class": "group",
+      "id": "8CE818F1-B9CA-4107-8C48-7A2FC4B685B0"
+    },
+    {
+      "class": "group",
+      "id": "5FF706D7-D968-4FA4-A00D-395FD3A89CEB"
+    },
+    {
+      "class": "group",
+      "id": "20377FDE-075C-43DE-8A33-DBACF9B8A85E"
+    },
+    {
+      "class": "text",
+      "id": "F40A890F-59E8-473C-A4E8-83F5D9BF6D22"
+    }
+  ],
+  "name": "Lablel above",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

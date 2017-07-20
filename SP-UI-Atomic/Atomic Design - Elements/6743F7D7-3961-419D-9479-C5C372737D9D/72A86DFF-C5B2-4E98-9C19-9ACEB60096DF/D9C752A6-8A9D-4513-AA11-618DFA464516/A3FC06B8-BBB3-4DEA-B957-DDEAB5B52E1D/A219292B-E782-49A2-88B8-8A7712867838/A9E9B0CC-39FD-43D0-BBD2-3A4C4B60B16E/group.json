@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "A9E9B0CC-39FD-43D0-BBD2-3A4C4B60B16E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 196,
+    "x": 0,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A49DBCBA-8BDB-41D2-891C-61DBCEDD7F70"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "960D7F47-97A3-483E-9FAA-649BB842F52F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F059B03-4D2A-4329-8377-4FC1E679152C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "51A61467-2A90-49EE-9BC3-F8A2103BB420"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA9BAA8C-DB04-4E15-A534-D4C084E7A282"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21F6DCBA-AD63-469F-9876-F086FFDC50EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5D832604-3B3D-46C8-98B2-7780AAD8BDED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32DC1B84-0246-44AC-85F9-4B9A27F7593A"
+    },
+    {
+      "class": "text",
+      "id": "C9434307-4459-4115-B66C-BF297D994642"
+    },
+    {
+      "class": "text",
+      "id": "D8EA0D56-F0F6-42D4-900D-95E99DE5B1D4"
+    },
+    {
+      "class": "text",
+      "id": "0341065F-0C82-46E2-ADD1-F925096866EE"
+    },
+    {
+      "class": "text",
+      "id": "D2321DAB-B27B-4AA0-AF2E-5370D837EDD2"
+    },
+    {
+      "class": "text",
+      "id": "BC2D00B6-5DD9-422D-9D3F-E3A735BB97E2"
+    },
+    {
+      "class": "text",
+      "id": "B3EAF038-AEDF-4424-9731-FF47DC815732"
+    },
+    {
+      "class": "text",
+      "id": "6D8371FC-451D-498A-A371-1C865A532D52"
+    }
+  ],
+  "name": "Row",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

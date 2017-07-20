@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "F7F56356-957F-4876-A665-96C858F70115",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 68,
+    "width": 196,
+    "x": 904,
+    "y": 218
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F150B4E1-6494-463F-9456-7BC8B2599E6F"
+    },
+    {
+      "class": "group",
+      "id": "839FF0E9-95FD-4139-A988-35857194F000"
+    },
+    {
+      "class": "group",
+      "id": "17C3755F-35A6-44DC-833B-BF51B71B8F8B"
+    },
+    {
+      "class": "group",
+      "id": "EA274BBF-1977-4FDF-AABB-0A35B86699A7"
+    },
+    {
+      "class": "group",
+      "id": "76856D06-34AC-48DE-89C9-CFAD17D6303A"
+    },
+    {
+      "class": "text",
+      "id": "E4666D36-56E2-42AD-B575-4A33BC49666E"
+    }
+  ],
+  "name": "Custom-drawn",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

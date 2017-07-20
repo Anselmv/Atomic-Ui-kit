@@ -1,0 +1,31 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "66232AAD-B388-449C-BDBA-AB3E037DB8EC",
+  "name": "Black-005 #F2F2F2",
+  "value": {
+    "_class": "style",
+    "do_objectID": "FD170A4D-EB15-4ADF-B5AC-E486B73098C6",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9490196078431372,
+          "green": 0.9490196078431372,
+          "red": 0.9490196078431372
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "66232AAD-B388-449C-BDBA-AB3E037DB8EC",
+    "startDecorationType": 0
+  }
+}

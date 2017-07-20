@@ -1,0 +1,66 @@
+{
+  "_class": "page",
+  "do_objectID": "35D76518-1659-4403-A69D-F4484FBF330A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -329,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "B6A1F1EA-B509-4E92-BC28-1E3A60402CC4"
+    },
+    {
+      "class": "artboard",
+      "id": "6743F7D7-3961-419D-9479-C5C372737D9D"
+    },
+    {
+      "class": "artboard",
+      "id": "52CDC4C3-4C24-49D7-A8E3-33000FE81799"
+    }
+  ],
+  "name": "Atomic Design - Elements",
+  "nameIsFixed": true,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -235,
+    "guides": [
+    ]
+  }
+}

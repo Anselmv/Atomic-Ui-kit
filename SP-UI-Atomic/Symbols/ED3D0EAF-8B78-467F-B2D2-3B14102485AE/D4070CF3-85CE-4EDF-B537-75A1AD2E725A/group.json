@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "D4070CF3-85CE-4EDF-B537-75A1AD2E725A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 256,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "72C8AD02-39B4-4567-9C48-4C3A3645C01D"
+    },
+    {
+      "class": "text",
+      "id": "7EC8482F-8816-41B3-8D1C-8287A399D851"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7168CFDE-9159-4572-B026-B153E683C221"
+    }
+  ],
+  "name": "Sidebar / Section / Collapsable-on",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedObjectID": "2BC448B2-DD4C-4CD1-B2E3-A23EACF455A1",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

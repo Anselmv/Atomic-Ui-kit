@@ -1,0 +1,95 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "25AD986D-2E23-4C3B-8966-C46B1AE130BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 7.892140625,
+    "width": 7.892109375,
+    "x": 0.0625,
+    "y": 0.0625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D2F5AFD4-3703-4F30-814A-3CD8BBB7A05C"
+    },
+    {
+      "class": "shapePath",
+      "id": "52EC8E38-4C17-4AE8-B0DE-49E478B29FB9"
+    },
+    {
+      "class": "shapePath",
+      "id": "01FCE5A0-60E6-489F-8B04-460CFF4AB10D"
+    },
+    {
+      "class": "shapePath",
+      "id": "68EAA88C-66C6-4CFF-A33A-1CD97DB78612"
+    },
+    {
+      "class": "shapePath",
+      "id": "A73BD14E-B23F-453E-A849-D83CFF9FDB2F"
+    },
+    {
+      "class": "shapePath",
+      "id": "86AB76E3-C659-4420-9734-5C14573B366C"
+    },
+    {
+      "class": "shapePath",
+      "id": "44DAEB8B-79C5-4CEC-88BA-60C80CB73A9E"
+    },
+    {
+      "class": "shapePath",
+      "id": "B0960F88-B0E3-466B-8B38-711289F62BE1"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.4,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "D08CB677-2096-4EAB-B4DF-DC63C7273BBA",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

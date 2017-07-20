@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "892FC402-0A1D-45DB-A8BB-BE0663EBFBB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 90,
+    "x": 91,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "45F47E24-5FDC-47B4-B514-BA93701CA46C"
+    },
+    {
+      "class": "group",
+      "id": "EDA771BB-7F5E-479E-AD1E-321BC18A9275"
+    },
+    {
+      "class": "text",
+      "id": "0AB67EB9-0322-4336-B941-9840155CD863"
+    }
+  ],
+  "name": "Tab.chevron-off",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

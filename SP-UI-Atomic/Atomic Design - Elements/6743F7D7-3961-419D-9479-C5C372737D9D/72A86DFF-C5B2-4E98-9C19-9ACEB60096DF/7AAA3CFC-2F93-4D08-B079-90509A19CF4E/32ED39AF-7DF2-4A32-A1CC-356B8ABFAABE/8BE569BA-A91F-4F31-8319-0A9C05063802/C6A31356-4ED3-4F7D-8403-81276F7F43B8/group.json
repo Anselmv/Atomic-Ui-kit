@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "C6A31356-4ED3-4F7D-8403-81276F7F43B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 28,
+    "x": 168,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2CBEF534-580D-4D5C-9ED9-3B83AE60675D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF70BCF7-02B9-438D-BF21-EC4DDC120077"
+    },
+    {
+      "class": "group",
+      "id": "FE8973A9-196E-4C5F-8FBB-45118A4C9A6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF7FA96C-35BB-455A-9FCD-AEACC9AC651C"
+    }
+  ],
+  "name": "Foward",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

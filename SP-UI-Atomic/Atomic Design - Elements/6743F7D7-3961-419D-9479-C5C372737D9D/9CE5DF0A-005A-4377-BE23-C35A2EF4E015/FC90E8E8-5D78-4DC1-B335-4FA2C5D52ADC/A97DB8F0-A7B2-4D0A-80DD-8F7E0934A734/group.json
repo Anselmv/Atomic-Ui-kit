@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "A97DB8F0-A7B2-4D0A-80DD-8F7E0934A734",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 50,
+    "x": 377,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E6114848-F45A-45B8-BFFD-BB70AAACD27A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2BBB6AED-E05C-4A64-86FC-9F3E2A10DF06"
+    },
+    {
+      "class": "group",
+      "id": "79ABF70F-8CF6-472C-93F9-694DACE8CD33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4137208-6C1A-4558-A5AF-1C72A590D705"
+    }
+  ],
+  "name": "Button / Medium / Dropdown / Icon / Compact / Hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
