@@ -19,7 +19,7 @@
                 "UID": 2
               }
             },
-            "Atoms",
+            "Atomsss",
             {
               "$class": {
                 "UID": 25
@@ -43,87 +43,47 @@
                   "UID": 8
                 },
                 {
-                  "UID": 12
+                  "UID": 9
                 },
                 {
-                  "UID": 20
+                  "UID": 17
                 },
                 {
-                  "UID": 24
+                  "UID": 21
                 }
               ]
             },
-            "NSParagraphStyle",
-            "MSAttributedStringFontAttribute",
-            "NSColor",
             "NSKern",
+            "MSAttributedStringFontAttribute",
+            "NSParagraphStyle",
+            "NSColor",
+            0,
             {
               "$class": {
-                "UID": 11
-              },
-              "NSAllowsTighteningForTruncation": 1,
-              "NSHeaderLevel": 1,
-              "NSMaxLineHeight": 48,
-              "NSMinLineHeight": 48,
-              "NSTabStops": {
-                "UID": 0
-              },
-              "NSTextBlocks": {
-                "UID": 9
-              },
-              "NSTextLists": {
-                "UID": 9
-              },
-              "NSWritingDirection": 1
-            },
-            {
-              "$class": {
-                "UID": 10
-              },
-              "NS.objects": [
-              ]
-            },
-            {
-              "$classes": [
-                "NSArray",
-                "NSObject"
-              ],
-              "$classname": "NSArray"
-            },
-            {
-              "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
-                "NSObject"
-              ],
-              "$classname": "NSMutableParagraphStyle"
-            },
-            {
-              "$class": {
-                "UID": 19
+                "UID": 16
               },
               "NSFontDescriptorAttributes": {
-                "UID": 13
+                "UID": 10
               }
             },
             {
               "$class": {
-                "UID": 18
+                "UID": 15
               },
               "NS.keys": [
                 {
-                  "UID": 14
+                  "UID": 11
                 },
                 {
-                  "UID": 15
+                  "UID": 12
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 16
+                  "UID": 13
                 },
                 {
-                  "UID": 17
+                  "UID": 14
                 }
               ]
             },
@@ -148,11 +108,52 @@
             },
             {
               "$class": {
-                "UID": 23
+                "UID": 20
+              },
+              "NSAllowsTighteningForTruncation": 1,
+              "NSHeaderLevel": 1,
+              "NSMaxLineHeight": 48,
+              "NSMinLineHeight": 48,
+              "NSTabStops": {
+                "UID": 0
+              },
+              "NSTextBlocks": {
+                "UID": 18
+              },
+              "NSTextLists": {
+                "UID": 18
+              },
+              "NSWritingDirection": 1
+            },
+            {
+              "$class": {
+                "UID": 19
+              },
+              "NS.objects": [
+              ]
+            },
+            {
+              "$classes": [
+                "NSArray",
+                "NSObject"
+              ],
+              "$classname": "NSArray"
+            },
+            {
+              "$classes": [
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
+                "NSObject"
+              ],
+              "$classname": "NSMutableParagraphStyle"
+            },
+            {
+              "$class": {
+                "UID": 24
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 21
+                "UID": 22
               },
               "NSRGB": {
                 "data": "0 0 0\u0000",
@@ -161,7 +162,7 @@
             },
             {
               "$class": {
-                "UID": 22
+                "UID": 23
               },
               "NSID": 1
             },
@@ -179,7 +180,6 @@
               ],
               "$classname": "NSColor"
             },
-            0,
             {
               "$classes": [
                 "NSDictionary",
@@ -221,11 +221,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 200,
+    "width": 271,
     "x": 160,
     "y": 160
   },
-  "glyphBounds": "{{0, -18}, {197, 61}}",
+  "glyphBounds": "{{1, -6}, {267, 49}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -233,7 +233,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Atoms",
+  "name": "Atomsss",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

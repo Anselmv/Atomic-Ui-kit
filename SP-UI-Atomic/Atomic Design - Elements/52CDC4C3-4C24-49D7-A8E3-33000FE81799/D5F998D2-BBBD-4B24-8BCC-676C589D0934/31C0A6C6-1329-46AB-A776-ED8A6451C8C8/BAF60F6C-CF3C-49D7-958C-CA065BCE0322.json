@@ -53,42 +53,45 @@
                 }
               ]
             },
-            "NSColor",
-            "MSAttributedStringFontAttribute",
             "NSParagraphStyle",
+            "MSAttributedStringFontAttribute",
+            "NSColor",
             "NSKern",
             {
               "$class": {
                 "UID": 11
               },
-              "NSColorSpace": 1,
-              "NSCustomColorSpace": {
+              "NSMaxLineHeight": 20,
+              "NSMinLineHeight": 20,
+              "NSTabStops": {
+                "UID": 0
+              },
+              "NSTextLists": {
                 "UID": 9
               },
-              "NSRGB": {
-                "data": "0.4509803922 0.4509803922 0.4509803922\u0000",
-                "type": "Buffer"
-              }
+              "NSTighteningFactorForTruncation": 0.05000000074505806
             },
             {
               "$class": {
                 "UID": 10
               },
-              "NSID": 1
+              "NS.objects": [
+              ]
             },
             {
               "$classes": [
-                "NSColorSpace",
+                "NSArray",
                 "NSObject"
               ],
-              "$classname": "NSColorSpace"
+              "$classname": "NSArray"
             },
             {
               "$classes": [
-                "NSColor",
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
                 "NSObject"
               ],
-              "$classname": "NSColor"
+              "$classname": "NSMutableParagraphStyle"
             },
             {
               "$class": {
@@ -142,37 +145,34 @@
               "$class": {
                 "UID": 23
               },
-              "NSMaxLineHeight": 20,
-              "NSMinLineHeight": 20,
-              "NSTabStops": {
-                "UID": 0
-              },
-              "NSTextLists": {
+              "NSColorSpace": 1,
+              "NSCustomColorSpace": {
                 "UID": 21
               },
-              "NSTighteningFactorForTruncation": 0.05000000074505806
+              "NSRGB": {
+                "data": "0.4509803922 0.4509803922 0.4509803922\u0000",
+                "type": "Buffer"
+              }
             },
             {
               "$class": {
                 "UID": 22
               },
-              "NS.objects": [
-              ]
+              "NSID": 1
             },
             {
               "$classes": [
-                "NSArray",
+                "NSColorSpace",
                 "NSObject"
               ],
-              "$classname": "NSArray"
+              "$classname": "NSColorSpace"
             },
             {
               "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
+                "NSColor",
                 "NSObject"
               ],
-              "$classname": "NSMutableParagraphStyle"
+              "$classname": "NSColor"
             },
             0,
             {

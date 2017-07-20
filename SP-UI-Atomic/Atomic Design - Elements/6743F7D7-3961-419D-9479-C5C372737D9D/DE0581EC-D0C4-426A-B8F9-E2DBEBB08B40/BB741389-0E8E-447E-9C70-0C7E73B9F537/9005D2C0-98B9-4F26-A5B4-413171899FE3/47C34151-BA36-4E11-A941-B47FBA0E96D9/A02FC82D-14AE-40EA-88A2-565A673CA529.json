@@ -195,19 +195,19 @@
               },
               "NS.keys": [
                 {
-                  "UID": 6
-                },
-                {
-                  "UID": 5
-                },
-                {
                   "UID": 26
+                },
+                {
+                  "UID": 6
                 },
                 {
                   "UID": 27
                 },
                 {
                   "UID": 28
+                },
+                {
+                  "UID": 5
                 }
               ],
               "NS.objects": [
@@ -228,9 +228,10 @@
                 }
               ]
             },
+            "NSStrikethrough",
             "MSAttributedStringFontAttribute",
             "NSUnderline",
-            "NSStrikethrough",
+            0,
             {
               "$class": {
                 "UID": 15
@@ -242,16 +243,6 @@
               },
               "NSTextLists": {
                 "UID": 13
-              }
-            },
-            {
-              "$class": {
-                "UID": 11
-              },
-              "NSColorSpace": 1,
-              "NSRGB": {
-                "data": "1 0.3882352941 0.2784313725\u0000",
-                "type": "Buffer"
               }
             },
             {
@@ -286,7 +277,16 @@
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
             1,
-            0,
+            {
+              "$class": {
+                "UID": 11
+              },
+              "NSColorSpace": 1,
+              "NSRGB": {
+                "data": "1 0.3882352941 0.2784313725\u0000",
+                "type": "Buffer"
+              }
+            },
             {
               "$classes": [
                 "NSMutableArray",

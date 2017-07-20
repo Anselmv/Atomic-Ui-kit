@@ -195,19 +195,19 @@
               },
               "NS.keys": [
                 {
-                  "UID": 26
+                  "UID": 6
                 },
                 {
                   "UID": 5
+                },
+                {
+                  "UID": 26
                 },
                 {
                   "UID": 27
                 },
                 {
                   "UID": 28
-                },
-                {
-                  "UID": 6
                 }
               ],
               "NS.objects": [
@@ -228,10 +228,22 @@
                 }
               ]
             },
-            "NSUnderline",
             "MSAttributedStringFontAttribute",
+            "NSUnderline",
             "NSStrikethrough",
-            1,
+            {
+              "$class": {
+                "UID": 15
+              },
+              "NSMaxLineHeight": 20,
+              "NSMinLineHeight": 20,
+              "NSTabStops": {
+                "UID": 0
+              },
+              "NSTextLists": {
+                "UID": 13
+              }
+            },
             {
               "$class": {
                 "UID": 11
@@ -276,20 +288,8 @@
             },
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
+            1,
             0,
-            {
-              "$class": {
-                "UID": 15
-              },
-              "NSMaxLineHeight": 20,
-              "NSMinLineHeight": 20,
-              "NSTabStops": {
-                "UID": 0
-              },
-              "NSTextLists": {
-                "UID": 13
-              }
-            },
             {
               "$classes": [
                 "NSMutableArray",
